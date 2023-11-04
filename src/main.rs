@@ -1,8 +1,8 @@
 mod app_leptos;
-use app_leptos::index;
+use app_leptos::router::SiteRouter;
 use leptos::*;
 
 
 pub fn main() {
-    mount_to_body(|| view! { <index::App/> })
+    mount_to_body(|| view! { <SiteRouter/> })
 }
