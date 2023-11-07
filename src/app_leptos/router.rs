@@ -1,6 +1,10 @@
 use leptos::*;
 use leptos_router::*;
-use crate::app_leptos::index::*;
+
+#[path = "pages.rs"] mod pages;
+use pages::home::*;
+use pages::about::*;
+
 
 #[component]
 pub fn SiteRouter() -> impl IntoView {
@@ -13,20 +17,11 @@ pub fn SiteRouter() -> impl IntoView {
                 </nav>
                 <main>
                     <Routes>
-                        <Route path="" view=|| view! { <Home/> }/>
-                        <Route path="about" view=|| view! { <About/> }/>
+                        <Route path="" view=|| view! { <PageHome/> }/>
+                        <Route path="about" view=|| view! { <PageAbout/> }/>
                     </Routes>
                 </main>
             </Router>
-        </div>
-    }
-}
-
-#[component]
-pub fn About() -> impl IntoView {
-    view! {
-        <div class="container">
-            <p class="textStyle">a simple about section</p>
         </div>
     }
 }
