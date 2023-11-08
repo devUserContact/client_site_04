@@ -1,9 +1,10 @@
 use leptos::*;
+use leptos::IntoView;
 
-use crate::app_leptos::pages::components::*;
+use crate::site_pages::components::*;
 
 #[component]
-pub fn Home() -> impl IntoView {
+pub fn PageHome() -> impl IntoView {
     view! {
         <div>
             <TitleCard/>

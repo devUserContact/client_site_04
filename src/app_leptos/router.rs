@@ -1,10 +1,8 @@
 use leptos::*;
 use leptos_router::*;
 
-#[path = "pages.rs"] mod pages;
-use pages::home::*;
-use pages::about::*;
-
+use crate::site_pages::home::PageHome;
+use crate::site_pages::about::PageAbout;
 
 #[component]
 pub fn SiteRouter() -> impl IntoView {
