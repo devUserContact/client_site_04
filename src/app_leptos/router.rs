@@ -1,8 +1,8 @@
 use leptos::*;
 use leptos_router::*;
 
-use crate::site_pages::home::PageHome;
-use crate::site_pages::about::PageAbout;
+use crate::pages::home::PageHome;
+use crate::pages::about::PageAbout;
 
 #[component]
 pub fn SiteRouter() -> impl IntoView {

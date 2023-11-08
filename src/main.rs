@@ -1,7 +1,7 @@
 use leptos::*;
 
 mod app_leptos;
-mod site_pages;
+mod pages;
 
 use app_leptos::app;
 
