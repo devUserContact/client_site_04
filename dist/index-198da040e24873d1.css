@@ -15,6 +15,7 @@ body {
   width: 100%;
   height: 100%;
   background-color: #ffbfd9;
+  color: #292929;
   font-size: 2rem;
   font-family: uncutSans;
 }
@@ -24,6 +25,24 @@ body {
   justify-content: center;
   align-content: center;
   text-align: center;
+}
+
+.navContainer {
+  margin: auto;
+  display: flexbox;
+  justify-content: space-between;
+  text-align: center;
+}
+
+.navText {
+  margin: auto;
+  padding: 2rem;
+  justify-content: space-between;
+  color: #292929;
+}
+
+.navText:link, .navText:visited {
+  text-decoration: none;
 }
 
 .titleStyle {
