@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'uncutSans';
+  font-family: "uncutSans";
   src: url(./fonts/Uncut-Sans-Regular.otf);
   font-style: normal;
 }
@@ -8,6 +8,7 @@ html {
   margin: 0;
   font-size: 10px;
 }
+
 body {
   margin: auto;
   padding: 1rem;
@@ -18,6 +19,7 @@ body {
   font-size: 2rem;
   font-family: uncutSans;
 }
+
 .container {
   margin: auto;
   justify-content: center;
@@ -31,12 +33,14 @@ body {
   justify-content: space-between;
   text-align: center;
 }
+
 .navText {
   margin: auto;
   padding: 2rem;
   justify-content: space-between;
   color: #292929;
 }
+
 .navText:link, .navText:visited {
   text-decoration: none;
 }
@@ -44,6 +48,7 @@ body {
 .titleStyle {
   font-size: 10rem;
 }
+
 .textStyle {
   font-size: 4rem;
 }
