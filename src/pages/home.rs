@@ -1,14 +1,13 @@
-use leptos::*;
 use leptos::IntoView;
+use leptos::*;
 
-use crate::pages::components::*;
 
 #[component]
 pub fn PageHome() -> impl IntoView {
     view! {
-        <div>
-            <TitleCard/>
-            <LandingText/>
+        <div class="container">
+            <p class="titleStyle">Crane Song</p>
+            <p class="textStyle">A band from California</p>
         </div>
     }
 }
