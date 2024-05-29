@@ -1,7 +1,7 @@
 export default function App(props) {
   return (
     <>
-      <nav class='grid grid-cols-3 pt-5 pb-5 bg-sky-300'>
+      <nav class='grid grid-cols-3 pt-5 pb-5 bg-pink-100'>
         <div class='ml-10'>
           <a href='/'>🎶</a>
         </div>

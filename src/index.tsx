@@ -24,7 +24,7 @@ render(
   () => (
     <Router root={App}>
       <Route path='/' component={Home} />
-      <Route path='/gallery' component={Albums} />
+      <Route path='/albums' component={Albums} />
       <Route path='/about' component={About} />
     </Router>
   ),
