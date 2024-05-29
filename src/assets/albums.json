@@ -1,0 +1,88 @@
+{
+  "albums": [
+    {
+      "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/1cbb6b5f-7017-4442-ea0e-c3de07a04b00/public",
+      "release_date": "09.2015",
+      "title": "Normalcy",
+      "links": [
+        {
+          "apple_music": "https://music.apple.com/us/album/normalcy/1200013681",
+          "bandcamp": "https://cranesong.bandcamp.com/album/normalcy",
+          "spotify": "https://open.spotify.com/album/5WE7grac1OX9fo4SPyKJmc?si=fg7sVmFXReSEccBIawgAAQ"
+        }
+      ]
+    },
+    {
+      "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/cd4176e8-03df-4a1d-7488-e040a6644b00/public",
+      "release_date": "11.2016",
+      "title": "Stay Sweet",
+      "links": [
+        {
+          "apple_music": "https://music.apple.com/us/album/stay-sweet/1169328604",
+          "bandcamp": "https://cranesong.bandcamp.com/album/stay-sweet",
+          "spotify": "https://open.spotify.com/album/11PAUvB3m5O7VzIFjVkjUm?si=juoalRA_STmUip18idDuuw"
+        }
+      ]
+    },
+    {
+      "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/d7c79721-cd25-4f02-e554-73addbbacb00/public",
+      "release_date": "05.2017",
+      "title": "Second Nature",
+      "links": [
+        {
+          "apple_music": "https://music.apple.com/us/album/second-nature-ep/1236876347",
+          "bandcamp": "https://cranesong.bandcamp.com/album/second-nature",
+          "spotify": "https://open.spotify.com/album/0sBfcZBWaUmdyQvHuNmsrN?si=UZ5FQA02SoaurdPKubVXtQ"
+        }
+      ]
+    },
+    {
+      "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/17856370-5075-43dc-576c-c0d980c2ac00/public",
+      "release_date": "10.2017",
+      "title": "HEARTSTRINGS",
+      "links": [
+        {
+          "apple_music": "https://music.apple.com/us/album/heartstrings-ep/1293375622",
+          "bandcamp": "https://cranesong.bandcamp.com/album/heartstrings",
+          "spotify": "https://open.spotify.com/album/1dbwpyWQnF1N80HHGrF1P7?si=DbAIZkkES1qrYanOanCfTA"
+        }
+      ]
+    },
+    {
+      "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/52da6f7c-5ce1-4e76-4044-869b22888600/public",
+      "release_date": "06.2018",
+      "title": "Green & Blue, we still love you",
+      "links": [
+        {
+          "apple_music": "https://music.apple.com/us/album/green-blue-we-still-love-you/1380713265",
+          "bandcamp": "https://cranesong.bandcamp.com/album/green-blue-we-still-love-you",
+          "spotify": "https://open.spotify.com/album/5joMwDgjCjP4OQfQK0W3y3?si=gVel3WLOSeqyu8Rz5Y5lcQ"
+        }
+      ]
+    },
+    {
+      "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/64761e68-b8e3-4ca2-bfc7-ccad733b1300/public",
+      "release_date": "01.2019",
+      "title": "Sounds of Sleep",
+      "links": [
+        {
+          "apple_music": "https://music.apple.com/us/album/sounds-of-sleep/1445618060",
+          "bandcamp": "https://cranesong.bandcamp.com/album/sounds-of-sleep",
+          "spotify": "https://open.spotify.com/album/7uFKaug1QGWWjckPk3OH5Z?si=jjTKlk5TQjeHUKOriCGyFg"
+        }
+      ]
+    },
+    {
+      "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/33b0a951-3ccb-4494-8d98-40db37ff0b00/public",
+      "release_date": "11.2020",
+      "title": "Starburst",
+      "links": [
+        {
+          "apple_music": "https://music.apple.com/us/album/starburst/1537769332",
+          "bandcamp": "https://cranesong.bandcamp.com/album/starburst",
+          "spotify": "https://open.spotify.com/album/60ZfRULCQSd3IipDqylEH6?si=BMDdHlpzQi2CICEiDIm3QA"
+        }
+      ]
+    }
+  ]
+}
