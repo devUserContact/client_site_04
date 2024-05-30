@@ -2,6 +2,7 @@
   "albums": [
     {
       "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/1cbb6b5f-7017-4442-ea0e-c3de07a04b00/public",
+      "kebob": "normalcy",
       "release_date": "09.2015",
       "title": "Normalcy",
       "links": [
@@ -14,6 +15,7 @@
     },
     {
       "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/cd4176e8-03df-4a1d-7488-e040a6644b00/public",
+      "kebob": "stay-sweet",
       "release_date": "11.2016",
       "title": "Stay Sweet",
       "links": [
@@ -26,6 +28,7 @@
     },
     {
       "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/d7c79721-cd25-4f02-e554-73addbbacb00/public",
+      "kebob": "second-nature",
       "release_date": "05.2017",
       "title": "Second Nature",
       "links": [
@@ -38,6 +41,7 @@
     },
     {
       "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/17856370-5075-43dc-576c-c0d980c2ac00/public",
+      "kebob": "heartstrings",
       "release_date": "10.2017",
       "title": "HEARTSTRINGS",
       "links": [
@@ -50,6 +54,7 @@
     },
     {
       "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/52da6f7c-5ce1-4e76-4044-869b22888600/public",
+      "kebob": "green-and-blue-we-still-love-you",
       "release_date": "06.2018",
       "title": "Green & Blue, we still love you",
       "links": [
@@ -62,6 +67,7 @@
     },
     {
       "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/64761e68-b8e3-4ca2-bfc7-ccad733b1300/public",
+      "kebob": "sounds-of-sleep",
       "release_date": "01.2019",
       "title": "Sounds of Sleep",
       "links": [
@@ -74,6 +80,7 @@
     },
     {
       "image_url": "https://imagedelivery.net/mKjOxek3QZwwBWUu82qeLg/33b0a951-3ccb-4494-8d98-40db37ff0b00/public",
+      "kebob": "starburst",
       "release_date": "11.2020",
       "title": "Starburst",
       "links": [
