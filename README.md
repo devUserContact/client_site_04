@@ -1,3 +1,11 @@
+# Crane Song Music Website
+
+## An artist website built with [solidjs][1] using [tailwind][2]
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a8dc882a-de3f-460f-b582-87e11542a864/deploy-status)](https://app.netlify.com/sites/crane-song-music/deploys)
+
+___
+
 ## Usage
 
 Those templates dependencies are maintained via [pnpm](https://pnpm.io) via `pnpm up -Lri`.
@@ -32,3 +40,6 @@ Your app is ready to be deployed!
 ## Deployment
 
 You can deploy the `dist` folder to any static host provider (netlify, surge, now, etc.)
+
+[1]:https://solidjs.com
+[2]:https://tailwindcss.com/
