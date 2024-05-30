@@ -3,8 +3,13 @@
 @tailwind utilities;
 
 @layer base {
+  @font-face {
+    font-family: 'Uncut-Sans-Regular';
+    src: url(fonts/Uncut-Sans-Regular.otf);
+  }
   html {
-    font-family: "Uncut-Sans-Regular";
-    src: url(fonts/Uncut-Sans-Regular.otf) format("otf");
+    font-family: sans;
+    font-size: 18px;
+    background-color: #f9f9f9;
   }
 }
