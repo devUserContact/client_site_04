@@ -10,7 +10,6 @@ export default function Albums() {
           <div class='grid w-4/5 aspect-square pt-5 pb-5 place-items-center bg-slate-100 rounded-md'>
             <a class='grid place-items-center' href={'albums/' + album.kebob}>
               <img class='w-4/5' src={album.image_url} alt={album.title} />
-              <p class='mt-2'>{album.title}</p>
             </a>
           </div>
         )}
